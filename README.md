@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by <a href="https://www.instagram.com/victor_martonii/" target="_blank">@VictorMartonii</a></p>[Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by <a href="https://www.instagram.com/victor_martonii/" target="_blank">@VictorMartonii</a></p>:wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
